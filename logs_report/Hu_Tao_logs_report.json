@@ -1,0 +1,26 @@
+{
+    "781991449066602496": {
+        "user_id": 781991449066602496,
+        "raison": "Test",
+        "timestamp": "06/08/2025 à 16:34:22",
+        "message_id": 1402661091158261931,
+        "status": "En attente"
+    },
+    "1006254267658686505": {
+        "user_id": 1006254267658686505,
+        "raison": "[raison]",
+        "timestamp": "06/08/2025 à 12:41:06",
+        "message_id": 1402602388509950014,
+        "status": "Résolu",
+        "moderator": "seoowashere",
+        "reply_timestamp": "06/08/2025 à 12:41:34",
+        "reply_reason": "Merci de ton report, le problème a été corrigé."
+    },
+    "691712624546807838": {
+        "user_id": 691712624546807838,
+        "raison": "Nouveau Report",
+        "timestamp": "06/08/2025 à 12:55:19",
+        "message_id": 1402605965072666624,
+        "status": "En attente"
+    }
+}
