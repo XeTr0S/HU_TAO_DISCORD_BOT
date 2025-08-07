@@ -116,6 +116,8 @@ async def main():
         await bot.load_extension("cogs.Hu_Tao_MODERATIONCMD")  # Chargement du Cog MODERATIONCMD
         await bot.load_extension("cogs.Hu_Tao_EMBEDS")  # Chargement du Cog EMBEDS
         await bot.load_extension("cogs.Hu_Tao_PROFILE")  # Chargement du Cog PROFILE
+        await bot.load_extension("cogs.Hu_Tao_OCCREATION")  # Chargement du Cog OCCREATION
+        await bot.load_extension("cogs.Hu_Tao_STATS") # Chargement du Cog STATS
         await bot.start(token)
 
 asyncio.run(main())
